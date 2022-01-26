@@ -1,4 +1,8 @@
 [
 "Một ngày đẹp trời",
-"Tôi không biết mình đang nói gì nữa"
+"Tôi không biết mình đang nói gì nữa",
+"Yêu Mi",
+"Đây là còm men, à nhầm bình luận",
+"Mình định nói gì lại quên rồi",
+"Mình có thể đọc hiểu tiếng Việt"
 ]
