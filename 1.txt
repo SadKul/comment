@@ -1,0 +1,4 @@
+[
+"Một ngày đẹp trời",
+"Tôi không biết mình đang nói gì nữa"
+]
